@@ -1,2 +1,2 @@
-# ff
-Powershell to install Firefox
+# firefox_powershell
+Powershell to install Firefox on Windows
